@@ -45,7 +45,7 @@
     "angular-bootstrap": "~0.11.0",
     "font-awesome": "~4.1.0",
     "rainbow": "~1.1.9",
-    "Chart.StackedBar.js": "~1.0.1",
+    "Chart.StackedBar.js": "https://github.com/dkretsch12/PremiseProChart.git",
     "angular-mocks": "~1.3.10"
   },
   "resolutions": {
